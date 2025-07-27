@@ -4,6 +4,6 @@ use ComfyUI with the Flux model to change clothing in an image, I start by setti
 
 # Samples Results
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2c9a3357-4f58-4a72-bc03-e81db01e30ea" width="350" title="Original Image">
-  <img src="https://github.com/user-attachments/assets/dfdcfde9-c6f7-41ed-931c-832f5e20a477" width="350" title="Upscaled Image">
+  <img src="https://github.com/user-attachments/assets/2c9a3357-4f58-4a72-bc03-e81db01e30ea" width="350" height = "700" title="Original Image">
+  <img src="https://github.com/user-attachments/assets/dfdcfde9-c6f7-41ed-931c-832f5e20a477" width="350" height = "700" title="Upscaled Image">
 </p>
