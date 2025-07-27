@@ -7,3 +7,8 @@ Super resolution and upscaling pictures
   <img src="https://github.com/user-attachments/assets/2c9a3357-4f58-4a72-bc03-e81db01e30ea" width="350" height = "700" title="Original Image">
   <img src="https://github.com/user-attachments/assets/dfdcfde9-c6f7-41ed-931c-832f5e20a477" width="350" height = "700" title="Upscaled Image">
 </p>
+
+# Model's links:
+FLUX GGUF fill: https://huggingface.co/city96/FLUX.1-dev-gguf
+Clip Tensor: https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors
+VAE Model: https://huggingface.co/stabilityai/sd-vae-ft-mse/tree/main
