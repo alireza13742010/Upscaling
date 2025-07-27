@@ -10,5 +10,9 @@ Super resolution and upscaling pictures
 
 # Model's links:
 FLUX GGUF fill: https://huggingface.co/city96/FLUX.1-dev-gguf
+
+
 Clip Tensor: https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors
+
+
 VAE Model: https://huggingface.co/stabilityai/sd-vae-ft-mse/tree/main
